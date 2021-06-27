@@ -31,7 +31,7 @@ const quotes = [
     author: "오동백",
   },
   {
-    quote: "ALWAYS",
+    quote: "ALWAYS.",
     author: "Severus Snape",
   },
   {
